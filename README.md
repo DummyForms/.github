@@ -10,25 +10,22 @@
   Build fully customized forms quickly using an intuitive visual editor.
 
 - **AI Form Generation**  
-  Generate powerful forms in 30 seconds with a single AI prompt
+  Generate a powerful form or survey in 30 seconds with a single AI prompt
 
 - **Beautiful Templates & Themes**  
   Get started fast with pre-designed form templates, or create your own unique style.
 
 - **Share & Embed Anywhere**  
-  Form publishing is seamless—get a shareable link or embed code to insert your form on any website.
+  Form publishing is seamless—get a shareable link, downloadable QR code, or embed code to insert your form on any website.
 
 - **Collect & Manage Responses**  
-  Effortlessly gather submissions, view individual responses, and export data in CSV/Excel formats.
+  Effortlessly gather submissions, view individual responses, and export data in CSV, Excel, PDF, and JSON formats.
 
 - **Advanced Analytics & Insights**  
-  Monitor form performance with built-in analytics dashboards.
-
-- **Third‑Party Integrations**  
-  Connect with your favorite tools: analytics, file storage, payments, email notifications, and more.
+  Monitor form performance with built-in analytics dashboards that include heatmaps, devices, and geolocation.
 
 - **Secure & Privacy‑Focused**  
-  GDPR‑aligned privacy policy and secure storage of all form data.
+  GDPR‑aligned privacy policy, secure storage of all form data, and 24/7 cloud backups.
 
 ---
 
