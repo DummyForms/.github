@@ -33,6 +33,6 @@
 
 1. **Sign up or log in** at [dummyforms.com](https://dummyforms.com)  
 2. Click **“Create New Form”**  
-3. Customize with drag‑and‑drop fields like text, multiple‑choice, uploads, etc.  
+3. Customize with click‑and‑drop fields like text, multiple‑choice, uploads, etc.  
 4. Preview, publish, and share your form link or embed code.  
 5. Track responses and metrics in real time.
